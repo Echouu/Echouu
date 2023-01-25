@@ -1,12 +1,14 @@
-### Olá!! Sou o Artur Gameiro 👋
-[![Blog](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)]()
+### Welcome to my git hub! 👋
+### I'm Artur Gameiro, and I'm a cybersecurity student 🖥️
 
+
+
+![Blog](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-gameiro-793b44207/)
-
-
+ 
 ![Artur Gameiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Echouu&show_icons=true&theme=dracula)
 
-### Tecnologias que já usei 
+### Tecnologias que já usei:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
