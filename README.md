@@ -29,7 +29,7 @@
 
 ### Contactos:
 - Email: artur.gameiro@hotmail.com
-- Discord: Echo#7598   <br/>
+<br/>
 
 
 
