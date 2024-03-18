@@ -26,9 +26,6 @@
 
 
 
-
-### Contactos:
-- Email: artur.gameiro@hotmail.com
 <br/>
 
 
